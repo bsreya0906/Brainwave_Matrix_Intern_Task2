@@ -6,7 +6,7 @@ Created as **Task 2** of my Web Development Internship at **Brainwave Matrix Sol
 ---
 
 ## 🌐 Live Demo  
-🔗 [View Project](https://bsreya0906.github.io/Blog_Platform_Task2/)
+🔗 [View Project](https://brainwave-matrix-intern-task2-sigma.vercel.app/)
 
 ---
 
@@ -33,4 +33,4 @@ Add your Firebase config in firebase-config.js and open in browser.
 🙋‍♀️ About Me
 
 I’m Sreya Bhattacharjee, a web developer passionate about building interactive and user-friendly applications.
-📌 [LinkedIn](www.linkedin.com/in/sreya-bhattacharjee-b6232b194)
+📌 [LinkedIn] (https://brainwave-matrix-intern-task2-sigma.vercel.app/)
