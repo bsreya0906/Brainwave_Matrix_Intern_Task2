@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8"/>
+  <title>Dashboard</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+  <video autoplay muted loop id="bgVideo"><source src="bg.mp4" type="video/mp4"></video>
+  <div class="overlay"></div>
+
+  <div class="form-container">
+    <h2>Dashboard</h2>
+    <!-- Post form -->
+    <form id="postForm" class="stack">
+      <div class="field">
+        <label>Title</label>
+        <input type="text" name="title" required/>
+      </div>
+      <div class="field">
+        <label>Content</label>
+        <textarea name="content" required></textarea>
+      </div>
+      <div class="field">
+        <label>Image (optional)</label>
+        <input type="file" name="image" accept="image/*"/>
+      </div>
+      <div class="actions">
+        <button class="btn primary" type="submit">Post</button>
+        <button id="logoutBtn" class="btn" type="button">Logout</button>
+      </div>
+    </form>
+
+    <div class="divider"></div>
+
+    <!-- Search -->
+    <div class="field" id="search-field">
+      <label for="search">Search</label>
+      <input type="text" id="search" placeholder="Type to search..."/>
+    </div>
+   
+
+    <!-- Posts -->
+    <div id="postsContainer" class="posts-grid"></div>
+  </div>
+
+  <div id="toast" class="toast"></div>
+  <script type="module" src="dashboard.js"></script>
+</body>
+</html>
