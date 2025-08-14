@@ -28,7 +28,7 @@ Created as **Task 2** of my Web Development Internship at **Brainwave Matrix Sol
 ## 📂 Setup
 ```bash
 git clone https://github.com/bsreya0906/Blog_Platform_Task2.git
-```/
+```
 
 💜 About Me
 
