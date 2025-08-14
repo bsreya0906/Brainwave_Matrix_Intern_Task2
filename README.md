@@ -28,9 +28,12 @@ Created as **Task 2** of my Web Development Internship at **Brainwave Matrix Sol
 ## 📂 Setup
 ```bash
 git clone https://github.com/bsreya0906/Blog_Platform_Task2.git
-Add your Firebase config in firebase-config.js and open in browser.
+```/
 
-🙋‍♀️ About Me
+💜 About Me
 
 I’m Sreya Bhattacharjee, a web developer passionate about building interactive and user-friendly applications.
-📌 [LinkedIn] (https://brainwave-matrix-intern-task2-sigma.vercel.app/)
+🌟 Always exploring new technologies to make the web more engaging.
+
+ [LinkedIn](www.linkedin.com/in/sreya-bhattacharjee-b6232b194)
+
