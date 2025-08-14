@@ -35,5 +35,5 @@ git clone https://github.com/bsreya0906/Blog_Platform_Task2.git
 I’m Sreya Bhattacharjee, a web developer passionate about building interactive and user-friendly applications.
 🌟 Always exploring new technologies to make the web more engaging.
 
- [LinkedIn](www.linkedin.com/in/sreya-bhattacharjee-b6232b194)
+ [📌LinkedIn](https://www.linkedin.com/in/sreya-bhattacharjee-b6232b194/)
 
